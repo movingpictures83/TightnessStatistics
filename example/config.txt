@@ -1,0 +1,2 @@
+Prefix plugins/TightnessStatistics/example/
+Plugin TightnessStatistics inputfile input.tightness outputfile input.tightness.stats.csv
