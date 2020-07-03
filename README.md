@@ -2,7 +2,7 @@
 # Language: Python
 # Input: prefix
 # Output: CSV 
-# Tested with: PluMA 1.0, Python 3.6
+# Tested with: PluMA 1.1, Python 3.6
 
 PluMA plugin to output a summary of statistics on the tightness of clusters in a network
 
